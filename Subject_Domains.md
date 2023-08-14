@@ -6,7 +6,7 @@ Code | Course | Duration | Effort
 BIO 1311 | [Introduction to Biology](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2) | 12 weeks | 7-14 Hours/Week
 BIO 2311 | [Biochemistry](https://www.edx.org/course/principles-biochemistry-harvardx-mcb63x) | 15 Weeks | 4-6 Hours/Week
 BIO 3311 | [Genetics 1 ](https://www.edx.org/course/useful-genetics-part-1-how-genes-shape-ubcx-usegen-1x-0) | 7 Weeks | 6-8 Hours/Week
-BIO 3312 | [Cell Biology ](http://ocw.mit.edu/courses/biology/7-06-cell-biology-spring-2007/) | - Weeks | - Hours/Week
+BIO 3312 | [Cell Genetics ](http://ocw.mit.edu/courses/biology/7-06-cell-biology-spring-2007/) | - Weeks | - Hours/Week
 BIO 3313a | [Biostatistics 1](https://www.coursera.org/learn/biostatistics) | 4 Weeks | 3-5 Hours/Week
 BIO 3313b | [Biostatistics 2](https://www.coursera.org/learn/biostatistics-2) | 4 Weeks | 3-5 Hours/Week
 BIO 4311 | [Genetics 2](https://www.edx.org/course/useful-genetics-part-2-genes-genetic-ubcx-usegen-2x-0) | 5 Weeks | 6-8 Hours/Week
